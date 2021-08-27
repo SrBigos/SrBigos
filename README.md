@@ -32,4 +32,4 @@ In 2021 I started my first serious project with CapeStar. The name of the projec
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/srbigosyt@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:srbigosyt@gmail.com)
+[![Email](https://img.shields.io/badge/srbigosyt@gmail.com-my_business_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:srbigosyt@gmail.com)
