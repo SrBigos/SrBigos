@@ -1,12 +1,12 @@
-# ![https://discord.gg/Js84epA](https://yt3.ggpht.com/ytc/AKedOLTDXEHr6cxJVdmfBJXDHkB4XgDsAyF9zglHt0we3g=s900-c-k-c0x00ffffff-no-rj) Hello there, I'm SrBigos.
+# ![https://discord.gg/Js84epA](https://yt3.ggpht.com/ytc/AKedOLShJ_Aa2WGQGRuyyKJuwRFlW5DWUUz8pVCphxIe=s176-c-k-c0x00ffffff-no-rj-mo) Hello there, I'm SrBigos.
 ### Casual Beginner Programmer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-zB0jYI2wzLW4DT2XEKfg?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/followers/srbigosyt?style=social)](https://twitch.com/srbigosyt)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/srbigosyt?style=social)](https://twitch.com/srbigosyt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/srbigosyt?style=social)](https://twitter.com/srbigosyt)
+![GitHub Followers](https://img.shields.io/github/followers/srbigos?style=social)
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/srbigos](https://i.pinimg.com/originals/89/97/73/899773b6ee5fd4d5117e9943c46ec1da.jpg)
 
 I'm a professional software developer for more than ten years.
 
