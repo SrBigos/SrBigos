@@ -9,7 +9,7 @@ Casual Beginner Programmer & Discord Verified Developer<h1>Hello there, I'm SrBi
 
 ![https://github.com/srbigos](https://i.pinimg.com/originals/89/97/73/899773b6ee5fd4d5117e9943c46ec1da.jpg)
 
-I am not a professional software developer, but I have very good ideas and I strive daily to improve in this area. I'm living in Spain, Valencia.
+I am not a professional software developer, but I have very good ideas and I strive daily to improve in this area.
 
 In 2021 I started my first serious project with CapeStar. The name of the project is GUARDIAN. This project consisted of trying to create a discord moderation bot with all the news of the new versions of the discord.js libraries as much as possible to what the administrators and moderators wanted to have. Curently, the bot is used in more than 500 communities with a total of more than 1,000,000 users.
 
