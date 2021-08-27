@@ -1,6 +1,6 @@
-! <h1>Hello there, I'm SrBigos</h1>
+Casual Beginner Programmer <h1>Hello there, I'm SrBigos</h1>
 
-### Casual Beginner Programmer
+### My Social Media
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-zB0jYI2wzLW4DT2XEKfg?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/srbigosyt?style=social)](https://twitch.com/srbigosyt)
