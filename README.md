@@ -1,4 +1,4 @@
-![https://discord.gg/Js84epA](https://cdn.discordapp.com/emojis/821118636403326987.png?v=1) <h1>Hello there, I'm SrBigos</h1> ![https://discord.gg/Js84epA](https://cdn.discordapp.com/emojis/821118636403326987.png?v=1)
+<h1>Hello there, I'm SrBigos</h1>
 ### Casual Beginner Programmer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-zB0jYI2wzLW4DT2XEKfg?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
