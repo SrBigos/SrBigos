@@ -1,5 +1,4 @@
-Casual Beginner Programmer & Discord Verified Developer<h1>Hello there, I'm SrBigos</h1>
-# <hr></hr>
+Casual Beginner Programmer & Discord Verified Developer# <hr></hr><h1>Hello there, I'm SrBigos</h1>
 ### 🌐 My Social Media
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-zB0jYI2wzLW4DT2XEKfg?style=social)](https://youtube.com/SrBigos?sub_confirmation=1)
