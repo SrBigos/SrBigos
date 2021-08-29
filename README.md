@@ -2,7 +2,8 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-zB0jYI2wzLW4DT2XEKfg?style=social)](https://youtube.com/SrBigos?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/srbigosyt?style=social)](https://twitch.com/srbigosyt)
-[![Twitter Follow](https://img.shields.io/twitter/follow/srbigosyt?style=social)](https://twitter.com/srbigosyt)
+[![Twitter](https://img.shields.io/twitter/follow/srbigosyt?style=social)](https://twitter.com/srbigosyt)
+[![Discord](https://img.shields.io/discord/544585654131097662.svg?label=&logo=discord&logoColor=ffffff&color=596AEA)](https://discord.gg/Js84epA)
 [![GitHub Followers](https://img.shields.io/github/followers/srbigos?style=social)](https://discord.gg/Js84epA)
 
 ![https://github.com/srbigos](https://i.pinimg.com/originals/89/97/73/899773b6ee5fd4d5117e9943c46ec1da.jpg)
