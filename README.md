@@ -25,8 +25,8 @@ In 2021 I started my first serious project with CapeStar. The name of the projec
 [![Discord](https://img.shields.io/badge/Discord-SrBigos-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/Js84epA)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@SrBigosYT-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/srbigosyt)
-[![Instagram](https://img.shields.io/badge/Instagram-@srbigosyt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![Web](https://img.shields.io/badge/My_Website-Soon...-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://google.es)
+[![Instagram](https://img.shields.io/badge/Instagram-@srbigosyt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/srbigosyt)
+[![Web](https://img.shields.io/badge/My_Website-Web...-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://redes.srbigos.es)
 
 ## ⤳ 📩 Contact me:
 
