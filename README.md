@@ -10,7 +10,8 @@
 
 I am not a professional software developer, but I have very good ideas and I strive daily to improve in this area.
 
-In 2021 I started my first serious project with CapeStar. The name of the project is GUARDIAN. This project consisted of trying to create a discord moderation bot with all the news of the new versions of the discord.js libraries as much as possible to what the administrators and moderators wanted to have. Curently, the bot is used in more than 500 communities with a total of more than 1,000,000 users.
+In 2021 I started my first serious project. The name of the project is GUARDIAN. This project consisted of trying to create a discord moderation bot with all the news of the new versions of the discord.js libraries as much as possible to what the administrators and moderators wanted to have. Curently, the bot is used in more than 500 communities with a total of more than 1,000,000 users. 
+In 2022 I decided to start my own professional project...
 
 ## ⤳ 🔨 My Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -26,7 +27,7 @@ In 2021 I started my first serious project with CapeStar. The name of the projec
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@SrBigosYT-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/srbigosyt)
 [![Instagram](https://img.shields.io/badge/Instagram-@srbigosyt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/srbigosyt)
-[![Web](https://img.shields.io/badge/My_Website-Web...-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://redes.srbigos.es)
+[![Web](https://img.shields.io/badge/Web-SrBigos-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://redes.srbigos.es)
 
 ## ⤳ 📩 Contact me:
 
